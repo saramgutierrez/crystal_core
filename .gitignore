@@ -1,4 +1,6 @@
 # ignore venv files
+.venv
+
 all_planets/.sh*
 all_planets/.*.py.sn
 burnman/.*.py.sn
@@ -98,3 +100,4 @@ all_planets/*.swp
 burnamn/*.swp
 all_planets/*.sw*
 
+.venv
